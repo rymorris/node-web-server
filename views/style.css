@@ -11,13 +11,19 @@ body {
   color: #373737;
   font-family: "Helvetica", sans-serif;
   display: inline-flex;
+  text-decoration: none !important;
 }
 
-header ul {
+header h1 a{
+  text-decoration: none;
+}
+
+.header-links {
   padding-left: 15%;
 }
 
-header ul li {
+.header-links p a {
+  text-decoration: none;
   padding: 5px;
   font-weight: 100;
   font-size: 15px;
