@@ -1,0 +1,24 @@
+
+body {
+  margin: 0px;
+}
+
+  header {
+  width: 100%;
+  margin: 0px;
+  padding: 5px 15px 5px 15px;
+  background-color: #FFAB91;
+  color: #373737;
+  font-family: "Helvetica", sans-serif;
+  display: inline-flex;
+}
+
+header ul {
+  padding-left: 15%;
+}
+
+header ul li {
+  padding: 5px;
+  font-weight: 100;
+  font-size: 15px;
+}
